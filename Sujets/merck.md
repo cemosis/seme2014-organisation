@@ -6,12 +6,12 @@ Goal: first of its kind drug mechanism report, glaucoma journal publication, mat
 
 Description of the Project
 --------------------------
-## Background ##
+
+### Background ###
 
 Elevated intraocular pressure (IOP) is a major risk factor for vision loss. IOP can be reduced via topical medications (such as prostaglandin analogues, carbonic anhydrase inhibitors and beta blockers) that modulate the production and/or the drainage of aqueous humor. The response to IOP-lowering medications is not consistent among individuals. Many factors have been hypothesized to influence the drug efficacy, including the levels of IOP and blood pressure and the co-presence of anti-hypertensive medications. These factors are very difficult to isolate in vivo and therefore this project aims at addressing this problem by combining mathematical modeling and clinical data.
 
-Methods
--------
+### Methods ###
 
 Unidentified clinical data on over 100 glaucoma patients treated with
 carbonic anhydrase inhibitors, prostaglandins, beta-blockers, alpha agonists,
@@ -31,8 +31,8 @@ drug action. This simplified approach will lead to a system of nonlinear
 ordinary differential equations that can be solved using MATLAB and can
 provide invaluable insights in the mechanisms governing the regulation of IOP.
 
-Outcomes
---------
+### Outcomes ###
+
 
 The main challenge in this project lies in the set up of a physiologically
 reasonable mathematical model that can capture the main interplay between
@@ -44,10 +44,10 @@ comparing the model predictions with clinical data, understanding will be
 gained on the mechanisms modulating IOP levels in different individuals and
 will be made available to the sponsoring companies.
 
-Investigators:
---------------
+Investigators
+-------------
 
- - Alon Harris (Director Clinical Research, Eugene and Marilyn Glick Eye Institute, Indianapolis)
- - Giovanna Guidoboni (Associate Professor of Mathematics, Indiana University Purdue University Indianapolis)
-
-Company involved: Merck & Co
+ - Industry: Robin Geller (Merck)
+ - Academia
+   - Alon Harris (Director Clinical Research, Eugene and Marilyn Glick Eye Institute, Indianapolis)
+   - Giovanna Guidoboni (Associate Professor of Mathematics, Indiana University Purdue University Indianapolis)

@@ -18,8 +18,8 @@ intégrée dans l'algorithme de reconstruction.
  - Encadrant académique proposé : Zakaria Belhachmi
 
 
-* Résumé étendu
----------------
+Résumé étendu
+-------------
 
 Comme son nom l'indique, la reconstruction tomographique est un procédé qui
 consiste à reconstruire des coupes d'un objet 2D ou 3D d'intérêt à partir de

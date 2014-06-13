@@ -2,7 +2,8 @@ Mathematical modeling of the eye to understand and predict the intra-ocular pres
 ================================================================================
 
 
-Goal: first of its kind drug mechanism report, glaucoma journal publication, math industry publication, and multidisciplinary graduate students’ education
+*Goal* first of its kind drug mechanism report, glaucoma journal publication,
+math industry publication, and multidisciplinary Phd students’ education
 
 Description of the Project
 --------------------------

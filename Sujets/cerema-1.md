@@ -1,7 +1,8 @@
 Etude d'un algorithme de reconstruction par évolution de forme en tomographie par temps d'arrivée
 =================================================================================================
 
-* Résumé
+Résumé
+------
 
 il s'agit, dans un premier temps, d'étudier de manière
 théorique les propriétés de convergence d'un algorithme de
@@ -17,7 +18,8 @@ intégrée dans l'algorithme de reconstruction.
  - Encadrant académique proposé : Zakaria Belhachmi
 
 
-* Résumé étendu :
+* Résumé étendu
+---------------
 
 Comme son nom l'indique, la reconstruction tomographique est un procédé qui
 consiste à reconstruire des coupes d'un objet 2D ou 3D d'intérêt à partir de
@@ -70,7 +72,8 @@ points particuliers, et de proposer une alternative, fondée sur
 l'utilisation de la méthode de l'état adjoint, qui pourra être
 intégrée dans l'algorithme de reconstruction.
 
-* Référence
+Référence
+---------
 
  - Gil Gaullier, Modèles déformables contraints en reconstruction d'images de
 tomographie non linéaire par temps d'arrivée, Thèse de doctorat, Université de

@@ -48,7 +48,8 @@ will be made available to the sponsoring companies.
 Investigators
 -------------
 
- - Industry: Robin Geller (Merck)
+ - Industry:
+    - Robin Geller (Merck, USA)
+    - Alon Harris (Director Clinical Research, Eugene and Marilyn Glick Eye Institute, Indianapolis)
  - Academia
-   - Alon Harris (Director Clinical Research, Eugene and Marilyn Glick Eye Institute, Indianapolis)
    - Giovanna Guidoboni (Associate Professor of Mathematics, Indiana University Purdue University Indianapolis)

@@ -35,8 +35,10 @@ cas des locaux tertiaires souvent de grandes dimensions ou dans le cas de bâtim
 (réseaux de salles reliées entre elles par des ouvertures, open-spaces tels que les plateformes téléphoniques,
 cuisines ouvertes sur séjours...).
 
-![](/Images/cerema2-img1.png "")
-
+![Image1](/Images/cerema2-img1.png "utilisation du modèle dans le choix du positionnement de sources industrielles
+au sein d’un atelier")
+) ![Image2](/Images/cerema2-img2.png "utilisation du modèle dans le choix du positionnement de sources industrielles
+au sein d’un atelier")
 
 Le modèle proposé
 -----------------
@@ -68,7 +70,7 @@ de la communauté scientifique et technique (publique ou privée). A ce titre, u
 /payant (privée) »sera menée en prenant contact avec des personnalités du monde de la recherche et
 académique, et des éditeurs/diffuseurs de logiciels reconnus en France.
 
-![Image1](/Images/cerema2-img1.png) ![Image2](/Images/cerema2-img2.png)
+
 
 Encadrants
 ----------

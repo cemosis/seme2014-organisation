@@ -10,6 +10,7 @@ acquises dans les deux états. La surface de l'objet doit être recouverte d'un
 motif aléatoire qui peut être soit naturel (mousse, laine de verre, ...) soit
 créé (peinture crayon, ...).
 
+
 D’un point de vue mathématique, on suppose que les images dans deux états
 différents de l’objet s’écrivent : f(x) et g(x) , où x représente les
 coordonnées en pixel dans l’image.  Si on appelle : u(x) le champ de

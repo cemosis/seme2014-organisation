@@ -68,7 +68,7 @@ de la communauté scientifique et technique (publique ou privée). A ce titre, u
 /payant (privée) »sera menée en prenant contact avec des personnalités du monde de la recherche et
 académique, et des éditeurs/diffuseurs de logiciels reconnus en France.
 
-![Image1](Images/cerema2-img1.png) ![Image2](Images/cerema2-img2.png)
+![Image1](/Images/cerema2-img1.png) ![Image2](/Images/cerema2-img2.png)
 
 Encadrants
 ----------

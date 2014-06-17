@@ -49,4 +49,4 @@ Encadrants
 Documents
 ---------
 
- - plus d'informations dans ce [document](/Sujets/axessim1.pdf).
+ - plus d'informations dans ce [document](/Sujets/axessim-1.pdf).

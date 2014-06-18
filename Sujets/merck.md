@@ -10,7 +10,16 @@ Description of the Project
 
 ### Background ###
 
-Elevated intraocular pressure (IOP) is a major risk factor for vision loss. IOP can be reduced via topical medications (such as prostaglandin analogues, carbonic anhydrase inhibitors and beta blockers) that modulate the production and/or the drainage of aqueous humor. The response to IOP-lowering medications is not consistent among individuals. Many factors have been hypothesized to influence the drug efficacy, including the levels of IOP and blood pressure and the co-presence of anti-hypertensive medications. These factors are very difficult to isolate in vivo and therefore this project aims at addressing this problem by combining mathematical modeling and clinical data.
+Elevated intraocular pressure (IOP) is a major risk factor for vision
+loss. IOP can be reduced via topical medications (such as prostaglandin
+analogues, carbonic anhydrase inhibitors and beta blockers) that modulate the
+production and/or the drainage of aqueous humor. The response to IOP-lowering
+medications is not consistent among individuals. Many factors have been
+hypothesized to influence the drug efficacy, including the levels of IOP and
+blood pressure and the co-presence of anti-hypertensive medications. These
+factors are very difficult to isolate in vivo and therefore this project aims
+at addressing this problem by combining mathematical modeling and clinical
+data.
 
 ### Methods ###
 
@@ -53,3 +62,13 @@ Investigators
     - Alon Harris (Director Clinical Research, Eugene and Marilyn Glick Eye Institute, Indianapolis)
  - Academia
    - Giovanna Guidoboni (Associate Professor of Mathematics, Indiana University Purdue University Indianapolis)
+
+Bibliography
+------------
+
+ - [Theoretical Analysis of Vascular Regulatory Mechanisms Contributing to Retinal Blood Flow Autoregulation](merck/Arciero_GG_IOVS.pdf)
+ - [Effect Of Intraocular Pressure On The Hemodynamics Of The Central Retinal Artery: A Mathematical Model](merck/CRA_nonlinear.pdf)
+ - [Ocular hemodynamics and glaucoma: the role of mathematical modeling](merck/EJO-D-12-00487.HARRIS_139-146.pdf)
+ - [Intraocular pressure, blood pressure and retinal blood flow autoregulation: a mathematical model to clarify their relationship and clinical relevance](merck/IOP_retinal_circulation_final.pdf)
+ - [Mathematical modeling approaches in the study of glaucoma disparities among people of African and European descents](merck/JCSMD-AD-ED_revised_final.pdf)
+ - [A poroelastic model for the perfusion of the lamina cribrosa in the optic nerve head](merck/PaperLC_revised_final.pdf)

@@ -21,6 +21,7 @@ Holo3
 -----
 
  - [Correlation d'images](holo3-1.md)
+ - [Organisation de points dans des images](holo3-2.md)
 
 
 Merck

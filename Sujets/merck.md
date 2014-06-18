@@ -66,9 +66,9 @@ Investigators
 Bibliography
 ------------
 
- - [Theoretical Analysis of Vascular Regulatory Mechanisms Contributing to Retinal Blood Flow Autoregulation](merck/Arciero_GG_IOVS.pdf)
- - [Effect Of Intraocular Pressure On The Hemodynamics Of The Central Retinal Artery: A Mathematical Model](merck/CRA_nonlinear.pdf)
- - [Ocular hemodynamics and glaucoma: the role of mathematical modeling](merck/EJO-D-12-00487.HARRIS_139-146.pdf)
- - [Intraocular pressure, blood pressure and retinal blood flow autoregulation: a mathematical model to clarify their relationship and clinical relevance](merck/IOP_retinal_circulation_final.pdf)
- - [Mathematical modeling approaches in the study of glaucoma disparities among people of African and European descents](merck/JCSMD-AD-ED_revised_final.pdf)
- - [A poroelastic model for the perfusion of the lamina cribrosa in the optic nerve head](merck/PaperLC_revised_final.pdf)
+ - [Theoretical Analysis of Vascular Regulatory Mechanisms Contributing to Retinal Blood Flow Autoregulation](merck/Arciero_GG_IOVS.pdf?raw=true)
+ - [Effect Of Intraocular Pressure On The Hemodynamics Of The Central Retinal Artery: A Mathematical Model](merck/CRA_nonlinear.pdf?raw=true)
+ - [Ocular hemodynamics and glaucoma: the role of mathematical modeling](merck/EJO-D-12-00487.HARRIS_139-146.pdf?raw=true)
+ - [Intraocular pressure, blood pressure and retinal blood flow autoregulation: a mathematical model to clarify their relationship and clinical relevance](merck/IOP_retinal_circulation_final.pdf?raw=true)
+ - [Mathematical modeling approaches in the study of glaucoma disparities among people of African and European descents](merck/JCSMD-AD-ED_revised_final.pdf?raw=true)
+ - [A poroelastic model for the perfusion of the lamina cribrosa in the optic nerve head](merck/PaperLC_revised_final.pdf?raw=true)

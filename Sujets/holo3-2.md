@@ -39,4 +39,4 @@ Encadrants
 Documents
 ---------
 
- - plus de détails concernant le dispositif HoloMap sont disponibles [ici](/Sujets/holo3-2-hmap.pdf)
+ - plus de détails concernant le dispositif HoloMap sont disponibles [ici](/Sujets/holo3-2-hmap.pdf?raw=true)

@@ -80,4 +80,4 @@ Encadrants
 
 Documents
 ---------
- - plus d'informations dans ce [document](/Sujets/cerema2-info.pdf).
+ - plus d'informations dans ce [document](/Sujets/cerema2-info.pdf?raw=true).

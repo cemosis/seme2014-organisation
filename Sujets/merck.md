@@ -62,6 +62,7 @@ Investigators
     - Alon Harris (Director Clinical Research, Eugene and Marilyn Glick Eye Institute, Indianapolis)
  - Academia
    - Giovanna Guidoboni (Associate Professor of Mathematics, Indiana University Purdue University Indianapolis)
+   - Marcela Szopos
 
 Bibliography
 ------------
